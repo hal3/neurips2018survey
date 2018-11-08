@@ -4,7 +4,7 @@ This repository hosts the [NIPS 2018 Demographics and Inclusion Survey Summary o
 
 ## About this document
 
-The most recent version of this document is from 8 November 2018, based on responses to [the survey](https://www.surveymonkey.com/r/HK7F5SM) through 13 October 2018. The survey was designed, analyzed and written up by [Hal Daum&eacute; III](http://hal3.name/) and [Katherine Heller](http://www2.stat.duke.edu/~kheller/) with help from [William Agnew](https://github.com/wagnew3), [Samy Bengio](https://ai.google/research/people/bengio), [Timnit Gebru](http://ai.stanford.edu/~tgebru/), [Shakir Mohamed](https://shakirm.com/), [Alice Oh](http://uilab.kaist.ac.kr/members/aliceoh/), and [Hanna Wallach](http://dirichlet.net/). More information on NIPS 2018 diversity and inclusion intitiatives can be found [here](https://nips2018inclusion.weebly.com/).
+The most recent version of this document is from 6 November 2018, based on responses to [the survey](https://www.surveymonkey.com/r/HK7F5SM) through 13 October 2018. The survey was designed, analyzed and written up by [Hal Daum&eacute; III](http://hal3.name/) and [Katherine Heller](http://www2.stat.duke.edu/~kheller/) with help from [William Agnew](https://github.com/wagnew3), [Samy Bengio](https://ai.google/research/people/bengio), [Timnit Gebru](http://ai.stanford.edu/~tgebru/), [Shakir Mohamed](https://shakirm.com/), [Alice Oh](http://uilab.kaist.ac.kr/members/aliceoh/), and [Hanna Wallach](http://dirichlet.net/). More information on NIPS 2018 diversity and inclusion intitiatives can be found [here](https://nips2018inclusion.weebly.com/).
 
 ## Executive summary
 
